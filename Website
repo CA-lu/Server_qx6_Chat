@@ -1,1 +1,10 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<body>	
+Umschließt den Inhalt, der im Browserfenster angezeigt wird
+INHALT	Hier kommt nun der Inhalt (und alle weiteren HTML-Befehle, die den Inhalt strukturieren)
+</body>
+
+
 
